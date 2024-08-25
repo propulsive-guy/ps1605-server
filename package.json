@@ -1,0 +1,17 @@
+{
+  "name": "ps1605",
+  "version": "1.0.0",
+  "description": "This is Womens Safety Project for Smart Indian Hackthon",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "author": "Team ps 1605",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
